@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="amount">Type amount</string>
+    <string name="source_mesunit">MesUnit</string>
+    <string name="result">Result</string>
+    <string name="target_mesunit">MesUnit</string>
+    <string name="miles">Mi</string>
+    <string name="kilometers">Km</string>
+    <string name="Fahrenheit">F.</string>
+    <string name="celsius">C.</string>
+    <string name="gallons">gal</string>
+    <string name="litters">l</string>
+    <string name="inches">in</string>
+    <string name="centimeters">cm</string>
+    <string name="celsius_fahrenheit"><![CDATA[Celsius -> Fahrenheit]]></string>
+    <string name="fahrenheit_celsius"><![CDATA[Fahrenheit -> Celsius]]></string>
+    <string name="miles_kilometers"><![CDATA[Miles -> Kilometers]]></string>
+    <string name="kilometers_miles"><![CDATA[Kilometers -> Miles]]></string>
+    <string name="gallons_liters"><![CDATA[Gallons -> Liters]]></string>
+    <string name="liters_gallons"><![CDATA[Liters -> Gallons]]></string>
+    <string name="inches_centimeters"><![CDATA[Inches -> Centimeters]]></string>
+    <string name="centimeters_inches"><![CDATA[Centimeters -> Inches]]></string>
+    <string name="convert"><![CDATA[Convert]]></string>
+    <string name="round_up">Round Up?</string>
+    <string name="equals_text">Equals To:</string>
+</resources>
